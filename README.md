@@ -2,6 +2,8 @@
 
 This is a tower block stacking game with added features like animations and interactive elements. The game offers an engaging experience for users, making it an enjoyable and interactive web application.
 
+![Preview](https://github.com/DHRUB006/DHRUB_DXD-Projects/assets/106004326/68a896d9-dfa1-4639-9f2f-2bc03ba69215)
+
 ## Table of Contents
 
 - [Demo](#demo)
